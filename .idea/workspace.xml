@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c01ffa1a-6141-4a6f-8b15-4ecb95816abe" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/contact.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/ar.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/bg-BG.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/cs-CZ.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/de-DE.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/el-GR.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/en.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/es-ES.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/fi-FI.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/fr-FR.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/hu-HU.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/id-ID.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/it-IT.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/ko-KR.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/my-MM.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/pt-BR.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/ru-RU.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/sl-SI.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/sv-SE.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/th.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/tr-TR.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/uk-UA.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/vi-VN.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/zh-CN.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/locales/zh-TW.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/origin/basic.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/origin/cors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/share.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/analytics/goatcounter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/analytics/google.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/comments/disqus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/comments/giscus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/comments/utterances.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/datetime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/embed/bilibili.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/embed/twitch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/embed/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/embed/youtube.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/favicons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/img-url.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/js-selector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/jsdelivr-combine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/lang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/language-alias.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/mermaid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/metadata-hook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/mode-toggle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/no-linenos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/notification.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/origin-type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/pageviews/goatcounter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/post-nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/post-paginator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/post-sharing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/read-time.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/refactor-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/related-posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/search-loader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/search-results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/topbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/trending-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/update-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/_copyright" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/commons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/misc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/back-to-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/category-collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/clipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/img-loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/img-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/locale-datetime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/mode-watcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/search-display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/toc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/components/tooltip-loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/layouts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/layouts/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/layouts/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/layouts/topbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/modules/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/archives.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/compress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_plugins/posts-lastmod-hook.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-08-text-and-typography.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-08-write-a-new-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-09-getting-started.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-11-customize-the-favicon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/addon/commons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/addon/module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/addon/syntax.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/addon/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/colors/syntax-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/colors/syntax-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/colors/typography-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/colors/typography-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/layout/archives.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/layout/categories.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/layout/category-tag.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/layout/home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/layout/post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/layout/tags.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/variables-hook.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tabs/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tabs/archives.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tabs/categories.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tabs/tags.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/jekyll-theme-chirpy.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/feed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicons/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicons/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicons/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicons/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicons/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/data/search.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/data/swconf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/pwa/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/pwa/sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jekyll-theme-chirpy.gemspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/init" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/release" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2dJena0W70BocyThAFBNVmLDGIe" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/hubcreator/workspace/HubCreator.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c01ffa1a-6141-4a6f-8b15-4ecb95816abe" name="Changes" comment="" />
+      <created>1709730776734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709730776734</updated>
+      <workItem from="1709730778629" duration="961000" />
+      <workItem from="1709734334251" duration="443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>
